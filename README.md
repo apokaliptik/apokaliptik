@@ -1,4 +1,4 @@
-```rb
+```
 // Announcement
 
 const Me = require("Rip-client")
